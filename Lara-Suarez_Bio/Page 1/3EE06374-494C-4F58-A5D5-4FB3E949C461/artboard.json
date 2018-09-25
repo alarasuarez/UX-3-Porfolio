@@ -47,6 +47,18 @@
     {
       "class": "text",
       "id": "7AE5E811-A1F5-4504-94F2-55C28DE98C27"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88CFC760-37EA-41ED-8B6D-E166979E043A"
+    },
+    {
+      "class": "bitmap",
+      "id": "FB5ACE71-6CF3-43CB-B73B-533D8EC53920"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E228D0C1-C88D-48EC-A04A-FD8E9C44BF58"
     }
   ],
   "name": "MoodBoard Collage",
