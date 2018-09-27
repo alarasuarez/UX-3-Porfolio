@@ -20,8 +20,8 @@
     "do_objectID": "F424A348-BA69-4233-9E27-FCBE63600AB4",
     "height": 243,
     "width": 209,
-    "x": 402,
-    "y": 205
+    "x": 425.2533262861962,
+    "y": 215.4137584030203
   },
   "image": {
     "_class": "MSJSONFileReference",
@@ -39,7 +39,7 @@
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": 20,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
