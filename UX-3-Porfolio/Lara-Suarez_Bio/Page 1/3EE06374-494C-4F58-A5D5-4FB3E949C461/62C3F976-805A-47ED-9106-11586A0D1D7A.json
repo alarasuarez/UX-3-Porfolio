@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "62C3F976-805A-47ED-9106-11586A0D1D7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70A35026-6B5B-46C2-9663-D5AD7CED594E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2BA27227-5E54-45C7-9E32-63BC2FB1B225",
+    "height": 399,
+    "width": 267,
+    "x": 347.7984038689482,
+    "y": -140.445108484181
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/4b2e924727ef7e7df626c246193435ad7204bbdf.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "louis-lo-778698-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 39,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9AC50E1-9630-4672-8271-961969F9BC43",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

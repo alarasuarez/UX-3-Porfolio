@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "C07BC0F1-5255-4CA3-BF36-3CAFAC72967D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28EB08E6-D59B-4975-85BE-D95BE067EB6F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "61B8465A-7CB6-4938-A594-2797DCBB605E",
+    "height": 408.4434782608696,
+    "width": 612,
+    "x": -1,
+    "y": 383
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/4a811cfa0ce927f4a102d1beb6d7698a3d940da8.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "amritanshu-sikdar-569510-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7190E8CD-5B57-48EC-B162-7B59539ABCA1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

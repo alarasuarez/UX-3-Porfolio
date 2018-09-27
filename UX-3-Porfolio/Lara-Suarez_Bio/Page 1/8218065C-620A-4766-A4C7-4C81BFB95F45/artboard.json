@@ -27,7 +27,7 @@
     "y": -118
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,15 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
-      "id": "64AEDF7F-7825-46D7-A793-BCDB25BE674D"
+      "id": "F5E69B1A-433B-46A0-992E-B77BEEFC96D9"
     },
     {
       "class": "text",
-      "id": "206DB301-A3B2-4692-8A1C-3FA0E1F54C1B"
+      "id": "303C76C6-C7B4-4DB4-934D-C598C3306ADB"
     }
   ],
   "name": "Bio",

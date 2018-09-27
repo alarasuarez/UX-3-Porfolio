@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "EEB2E307-B743-4576-B56C-CFE840160BAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "639F2388-99DE-4F3B-8D3A-F8F85BDE98F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8C505CA7-0CFC-461F-A3A4-94514654C343",
+    "height": 408,
+    "width": 453,
+    "x": -202,
+    "y": 311
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5363012e66adb93de7a18cebb5aef28a7550b648.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "hybrid-440620-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7D580D1-61C5-4945-AF89-BCDD627F3982",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

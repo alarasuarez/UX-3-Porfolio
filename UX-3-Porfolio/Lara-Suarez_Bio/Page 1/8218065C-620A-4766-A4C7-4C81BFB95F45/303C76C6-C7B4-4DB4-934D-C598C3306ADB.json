@@ -1,0 +1,135 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Avenir-Book",
+              "size": 13
+            }
+          },
+          "kerning": 0.4000000059604645,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
+          }
+        },
+        "length": 1554,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Avenir-Book",
+              "size": 13
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
+          }
+        },
+        "length": 1,
+        "location": 1554
+      }
+    ],
+    "string": "\nMy name is Angel Daniel Lara-Suarez and I am 25 years old attending Eastern Washington University as Visual Communication Design major.\nMy heritage consists half Mexican from my mom side and half Honduran from my dad side.\n\nI am kind hearted and I like to help others in any way possible that is within my power. I go above and beyond to some friends that I have a close relationship with. I am a hard worker with the ability to learn new skills and be able to apply it to a daily life.\n\nI was born and raised in Yakima Washington on May 1 1993 and have lived there most of life. I moved to Ellensburg after I graduated from high school and lived there for 2 1/2 years. I returned back to Yakima for 2 more years before moving to Cheney Washington.\n\nI have 2 siblings. One older half brother from my dad side; His name is Angel as well and he is currently living in Honduras. He is 29 years and has a daughter. My younger brother’s name is Likhi who turned 14 in August and began his first year of high school.\n\nI graduated from Eisenhower High school in Yakima and attend Central Washington University for Accounting. I was there for 2 1/2 years and after went back to Yakima to attend at Yakima Valley Community College. I was there for 2 years and graduated with my Associates degree in Arts. My plans were to go to Heritage University for Secondary Education in Mathematics but decided to attend Eastern Washington University as a Secondary Education Mathematics; however, I changed to Visual Communication Design with the User Interface certificate."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "do_objectID": "303C76C6-C7B4-4DB4-934D-C598C3306ADB",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7097A7AC-6E85-4CA9-9749-B5E90B9BB9B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8E3A003-5774-4CB3-9A9E-03DF6E501261",
+    "height": 548,
+    "width": 439,
+    "x": 14,
+    "y": 236
+  },
+  "glyphBounds": "{{0, 13}, {437, 523}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "My name is Angel Dan",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62A26413-00F1-46FB-A4D9-0BFD79B7DE43",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "91E25AF9-2943-4C12-888F-14B459F6F61B",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Avenir-Book",
+            "size": 13
+          }
+        },
+        "kerning": 0.4000000059604645,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

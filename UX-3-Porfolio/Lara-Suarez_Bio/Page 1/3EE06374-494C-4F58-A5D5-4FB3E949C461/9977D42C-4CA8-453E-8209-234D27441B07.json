@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "9977D42C-4CA8-453E-8209-234D27441B07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C38869D-0D4A-4E69-B184-B4ECEEBED42F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A355B339-6F01-4EA6-AC5C-EE7B65E4285E",
+    "height": 224,
+    "width": 336,
+    "x": -53.96985909155342,
+    "y": -41.35115270729426
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/f267b2ea7b9c2297e995efc0f4ab6dc132e21c1c.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "kai-pilger-688613-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 24,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DC04752F-1A10-438E-AB82-62E27B051C76",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

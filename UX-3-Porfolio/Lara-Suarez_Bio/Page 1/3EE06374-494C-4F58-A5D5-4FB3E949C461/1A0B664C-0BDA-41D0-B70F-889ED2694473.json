@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "1A0B664C-0BDA-41D0-B70F-889ED2694473",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB019168-FBF6-4FAD-A50E-6EB6DFA01880",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9EDBFBDC-28CD-49BE-B00A-5A7A44D5AEB0",
+    "height": 261,
+    "width": 174,
+    "x": -11,
+    "y": 187
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/13e8cc3da282c9e7dd02b1d2cd42b935432fa343.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "james-owen-653039-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18859060-BB9E-4B29-B6A7-16E7F6B16A61",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

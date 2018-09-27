@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "1F8F64D0-FBFA-4CFA-9525-AE5A7E711789",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DFEBA3F3-B75E-49E6-8CA8-A5A4FDBE0FD7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AAD20A4F-8846-4955-BF64-B66FF2B6DD88",
+    "height": 206,
+    "width": 478,
+    "x": -111.8297366986183,
+    "y": 616.1197362259144
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5ab1aa50f564ba92b444a311b33002ec816b9c9e.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "G_Coupe",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -9,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "697D376D-919D-473D-B33E-BD0B1FA336A2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

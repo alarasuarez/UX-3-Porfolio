@@ -42,23 +42,43 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "7AE5E811-A1F5-4504-94F2-55C28DE98C27"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "88CFC760-37EA-41ED-8B6D-E166979E043A"
+      "class": "bitmap",
+      "id": "C07BC0F1-5255-4CA3-BF36-3CAFAC72967D"
     },
     {
       "class": "bitmap",
-      "id": "FB5ACE71-6CF3-43CB-B73B-533D8EC53920"
+      "id": "EEB2E307-B743-4576-B56C-CFE840160BAB"
     },
     {
-      "class": "shapeGroup",
-      "id": "E228D0C1-C88D-48EC-A04A-FD8E9C44BF58"
+      "class": "bitmap",
+      "id": "3E8ECA3B-5699-4AD6-B615-31B8AF8AF824"
+    },
+    {
+      "class": "bitmap",
+      "id": "1F8F64D0-FBFA-4CFA-9525-AE5A7E711789"
+    },
+    {
+      "class": "bitmap",
+      "id": "46059FAF-1747-4388-9343-7863F985BC7D"
+    },
+    {
+      "class": "bitmap",
+      "id": "9977D42C-4CA8-453E-8209-234D27441B07"
+    },
+    {
+      "class": "bitmap",
+      "id": "1A0B664C-0BDA-41D0-B70F-889ED2694473"
+    },
+    {
+      "class": "bitmap",
+      "id": "62C3F976-805A-47ED-9106-11586A0D1D7A"
+    },
+    {
+      "class": "bitmap",
+      "id": "7E1A1959-4839-477F-AEE9-06CC99D91CD3"
     }
   ],
   "name": "MoodBoard Collage",
