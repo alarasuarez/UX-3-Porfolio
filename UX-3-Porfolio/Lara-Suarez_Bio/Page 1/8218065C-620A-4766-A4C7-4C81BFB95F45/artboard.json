@@ -45,12 +45,24 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "F84E175D-8F1D-46B0-B855-A438301B96F5"
+    },
+    {
       "class": "text",
       "id": "F5E69B1A-433B-46A0-992E-B77BEEFC96D9"
     },
     {
       "class": "text",
       "id": "303C76C6-C7B4-4DB4-934D-C598C3306ADB"
+    },
+    {
+      "class": "bitmap",
+      "id": "ADFC070F-F300-4C09-8FA7-33F887DF1D35"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F83DA71D-B811-4E68-995A-6D8906F15B85"
     }
   ],
   "name": "Bio",
